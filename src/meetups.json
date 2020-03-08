@@ -1,0 +1,18 @@
+[
+    {
+        "date" : "2020-03-02",
+        "talks" : [
+            {
+                "description" : "",
+                "length" : "1h",
+                "slides" : "",
+                "speaker" : {
+                    "name": "Erwan Jesson Ripoll",
+                    "website": "",
+                    "avatar": ""
+                },
+                "topic" : "Accessibility nanana"
+            }
+        ]
+    }
+]
